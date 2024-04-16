@@ -5,4 +5,4 @@ THF is a new Threat Hunting Framwork focused on Threat Hunter as key point of an
 
 If you detect any issue please use a issues section. 
 
-If you want colaborate with THF project, you are free for translate THF and perform a push request.
+If you want colaborate with THF project, you are free for translate THF and perform a push request. Also you are welcome in our SubReddit: https://www.reddit.com/r/TheHuntersFramework/
